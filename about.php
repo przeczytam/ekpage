@@ -1,3 +1,6 @@
+<?php require_once("./layout/header.php"); ?>
+
+<!-- About -->
 <section class="resume-section" id="experience">
                 <div class="resume-section-content">
                     <h2 class="mb-5">Über mich</h2>
@@ -5,7 +8,7 @@
                         <div class="flex-grow-1">
                             <h3 class="mb-0">Der Weg ist das Ziel</h3>
                             <div class="subheading mb-3">Deutsche Angestellte Akademie</div>
-                            <p>Ich absolviere derzeit eine Umschulung zum Fachinformatiker mit Schwerpunkt IT-Systemintegration. In meiner Ausbildung konnte ich bereits theoretische Kenntnisse in Netzwerktechnik, Datenbanken, Serveradministration und IT-Sicherheit erwerben, die ich in einem Praktikum vertiefe. Ein wichtiger Bestandteil ist zudem das betriebliche Projekt für die IHK-Abschlussprüfung, welches ich von der Planung bis zur Durchführung eigenständig bearbeite.</p>
+                            <p>Ich absolviere derzeit eine Umschulung zum Fachinformatiker mit Schwerpunkt IT-Systemintegration. In meiner Ausbildung konnte ich bereits theoretische Kenntnisse in Netzwerktechnik, Datenbanken, Serveradministration und IT-Sicherheit erwerben, die ich in einem Praktikum vertiefe. Ein wichtiger Bestandteil ist zudem das betriebliche Projekt für die IHK-Abschlussprüfung, welches ich von der Planung bis zur Durchführung eigenständig bearbeite. Ein weiterer wesentlicher Bestandteil des Programms ist auch die Programmierung, einschließlich HTML, CSS, Bootstrap, C# sowie die Erstellung von Anwendungen in PowerShell..</p>
                         </div>
                         <div class="flex-shrink-0"><span class="text-primary">seit Juni 2024</span></div>
                     </div>
@@ -27,4 +30,7 @@
                     </div>
                 </div>
             </section>
-            <hr class="m-0" />
+</div>
+<?php require_once("./layout/footer.php"); ?>
+
+</html>

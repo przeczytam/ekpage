@@ -19,16 +19,16 @@
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
             <a class="navbar-brand js-scroll-trigger" href="#page-top">
-                <span class="d-block d-lg-none">Grzegorz Brzeczyszczykiewicz</span>
+                <span class="d-block d-lg-none">FISI Site</span>
                 <span class="d-none d-lg-block"><img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="assets/img/profile.png" alt="..." /></span>
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav">
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">Wer bin ich</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#experience">Über mich</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Skills</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#contact">Kontakt</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="./index.php">Wer bin ich</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="./about.php">über mich</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="./skils.php">skils</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="./login.php">login</a></li>
                 </ul>
             </div>
         </nav>

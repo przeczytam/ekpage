@@ -10,13 +10,13 @@
             Betreuung komplexer IT-Lösungen und den direkten Anwenderkontakt bereichern.</p>
 
         <section class="willkommen">
-            <p>Kurs: Web Programmierung by Ali Khorsandfard</p>
-            <p>FISI Sommer 2024</p>
-            <p>Name: Piotr Balcerzak</p>
-            <p>Standort: Hamm</p>
+        <p>Kurs: Web Programmierung by Ali Khorsandfard <br>
+            FISI Sommer 2024 <br>
+            Name: Piotr Balcerzak <br>
+            Standort: Hamm</p>
         </section>
         <section class="kontaktformular">
-        <h2 class="mb-5">Kontaktieren Sie mich</h2>
+            <h2 class="mb-5">Kontaktieren Sie mich</h2>
             <form method="post" target="_blank">
                 <input name="email" type="email" placeholder="ihr email" required /><br /><br />
                 <textarea name="message" cols="25" rows="3" placeholder="schreib etwas ..." required></textarea>
